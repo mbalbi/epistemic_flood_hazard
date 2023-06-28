@@ -3,4 +3,4 @@
 Repository author: Mariano Balbi
 Manuscript authors: Mariano Balbi & David Lallemant
 
-Probabilistic model for the computation of flood hazard including uncertainty in the recurrence model and inundation simulator parameters
+The main file to perform the analysis and figures that appear in the manuscript is the 'hazard_model.ipynb' notebook. All the files needed to run that notebook are available here, and placed all in the same directory. The files in the data folder should remain there.
